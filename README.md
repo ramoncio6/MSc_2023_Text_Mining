@@ -1,7 +1,7 @@
 # MSc_2023_Text_Mining
-Final Text Mining Project (BSE 2023) with David Vallmanya and Irene Villalonga. \\
+Final Text Mining Project (BSE 2023) with David Vallmanya and Irene Villalonga. \
 
-Abstract: \\
+Abstract: \
 
 The initial stage of our research involves accessing the Reddit API to extract all responses -including
 metadata- from the post "Donald Trump has not made a single lasting positive impact on the USA during
